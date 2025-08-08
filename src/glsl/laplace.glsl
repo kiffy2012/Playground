@@ -1,0 +1,2 @@
+// placeholder shader
+void main() {}
